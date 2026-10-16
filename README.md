@@ -11,7 +11,9 @@ Ce projet est une application web de gestion de tâches (To-Do list) réalisée 
 
 3. Ouvrir le projet :
    Cliquer sur le lien http://localhost:5173 dans le terminal pour voir le projet dans le navigateur.
-
+# Scripts
+- `npm run dev` : serveur de développement
+- `npm run build` : version de production (dossier dist)
 
 # les fonctions réalisées
  - Ajout d'une tâche  : Permet d'ajouter une nouvelle tâche via un champ de saisie texte (les tâches vides ou constituées uniquement d'espaces ne sont pas acceptées).
@@ -49,3 +51,5 @@ Ce projet est une application web de gestion de tâches (To-Do list) réalisée 
 
 3. Dépôt GitHub
 ![Capture 3](./captures/cap3.png)
+ # Auteur 
+  Salem Nour Elhouda _ L2 DSI1 / G2
